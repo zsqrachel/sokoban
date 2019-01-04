@@ -1,0 +1,9 @@
+H:\Sokoban\Sokoban\bin\Release\Sokoban.exe
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.csprojResolveAssemblyReference.cache
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.UI.AboutForm.resources
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.UI.SelectForm.resources
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.UI.HelpForm.resources
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.MainForm.resources
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.StartForm.resources
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.csproj.GenerateResource.Cache
+H:\Sokoban\Sokoban\obj\x86\Release\Sokoban.exe
